@@ -4,9 +4,9 @@ public class Datatypes {
 
 	public static void main(String[] args) {
 		
-		short a=12;
+		short a=30;
 		
-		int b=90;
+		int b=200;
 		
 		long c=1313131313131313131L;
 		
