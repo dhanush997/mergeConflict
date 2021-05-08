@@ -6,7 +6,7 @@ public class Datatypes {
 		
 		short a=20;
 		
-		int b=100;
+		int b=200;
 		
 		long c=1313131313131313131L;
 		
