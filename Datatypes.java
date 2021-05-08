@@ -4,7 +4,7 @@ public class Datatypes {
 
 	public static void main(String[] args) {
 		
-		short a=30;
+		short a=20;
 		
 		int b=200;
 		
